@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A4108F-15E5-48C9-8DA8-1FE8485C6FF4}|BlazorAppWithAPI\\BlazorAppWithAPI.Client\\BlazorAppWithAPI.Client.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98A4108F-15E5-48C9-8DA8-1FE8485C6FF4}|BlazorAppWithAPI\\BlazorAppWithAPI.Client\\BlazorAppWithAPI.Client.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A4108F-15E5-48C9-8DA8-1FE8485C6FF4}|BlazorAppWithAPI\\BlazorAppWithAPI.Client\\BlazorAppWithAPI.Client.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A4108F-15E5-48C9-8DA8-1FE8485C6FF4}|BlazorAppWithAPI\\BlazorAppWithAPI.Client\\BlazorAppWithAPI.Client.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A4108F-15E5-48C9-8DA8-1FE8485C6FF4}|BlazorAppWithAPI\\BlazorAppWithAPI.Client\\BlazorAppWithAPI.Client.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi.client\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A4108F-15E5-48C9-8DA8-1FE8485C6FF4}|BlazorAppWithAPI\\BlazorAppWithAPI.Client\\BlazorAppWithAPI.Client.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi.client\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|e:\\.nanosoft\\1.04.24\\blazorappwithapi\\blazorappwithapi\\blazorappwithapi\\data\\migrations\\20240401073318_atributeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A087E6-C9AF-4EC9-B437-58AF476A7462}|BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.csproj|solutionrelative:blazorappwithapi\\blazorappwithapi\\data\\migrations\\20240401073318_atributeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI.Client\\Pages\\Auth.razor",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI.Client\\Pages\\Auth.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:24:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersistentAuthenticationStateProvider.cs",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.Client\\PersistentAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI.Client\\PersistentAuthenticationStateProvider.cs",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.Client\\PersistentAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI.Client\\PersistentAuthenticationStateProvider.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:19:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersistingRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA5wF8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:20:38.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.Client\\UserInfo.cs",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI.Client\\UserInfo.cs",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI.Client\\UserInfo.cs",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI.Client\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:17:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI\\Program.cs",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Program.cs",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:13:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T07:48:03.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240401073318_AtributeAdded.cs",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\Migrations\\20240401073318_AtributeAdded.cs",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\Migrations\\20240401073318_AtributeAdded.cs",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\Migrations\\20240401073318_AtributeAdded.cs",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\Migrations\\20240401073318_AtributeAdded.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:33:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\ApplicationUser.cs",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:31:46.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorAppWithAPI\\BlazorAppWithAPI\\appsettings.json",
+              "ToolTip": "E:\\.NanoSoft\\1.04.24\\BlazorAppWithAPI\\BlazorAppWithAPI\\BlazorAppWithAPI\\appsettings.json",
+              "RelativeToolTip": "BlazorAppWithAPI\\BlazorAppWithAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T07:29:27.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
